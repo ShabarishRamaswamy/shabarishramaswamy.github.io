@@ -4,7 +4,7 @@ slug: video-streaming-intro
 description: This series goes through how a generic video streaming website functions.
 tags:
   - technical
-added: 2025-01-01T18:30:00.000Z
+added: 2024-12-31T18:30:00.000Z
 ---
 
 I have been messing around with video streaming tech over the past few months for [GoSeek](https://github.com/ShabarishRamaswamy/GoSeek), this series of blogs are an account of my personal journey into discovering how video streaming works!
