@@ -15,3 +15,7 @@ History of Video Playback
 * HLS, DASH, MSS.
 * Implementation of players.
 * FFMPEG.
+--
+Cloudflare Pingora.
+Traefik.
+What won and what didn't -> HTTP, Gemini, Gopher and the bunch.
