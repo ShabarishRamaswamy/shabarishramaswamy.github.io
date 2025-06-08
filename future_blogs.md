@@ -1,3 +1,6 @@
+Next ABVS protocol Blog:
+- What are Byte-Addressable Media files
+
 History of Video Playback
 - HTML5 Video.
 - Flash Player.
@@ -16,6 +19,13 @@ History of Video Playback
 * Implementation of players.
 * FFMPEG.
 --
+Set the method attribute to POST because file content can't be put inside URL parameters. - Who says?
+[https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Sending_and_retrieving_form_data]
+--
 Cloudflare Pingora.
 Traefik.
 What won and what didn't -> HTTP, Gemini, Gopher and the bunch.
+Hot Reloading.
+APL, BQN and other weird languages.
+Different types of Databases - SQL, Document, Table, Vector, etc.
+gRPC and other high performance serialization protocols.
